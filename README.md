@@ -1,13 +1,13 @@
 ## Instalasi
 
 ```bash
-npm i -D mzaini30/embed-youtube --prefer-offline
+npm i -D @mzaini30/embed-youtube --prefer-offline
 ```
 
 ## Penggunaan
 
 ```javascript
-const yt = require("embed-youtube")
+const yt = require("@mzaini30/embed-youtube")
 const teks = `
 Ini videonya:
 
